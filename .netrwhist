@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/nfs/course/select/b03901023/.vim'
+let g:netrw_dirhist_2='/Users/AdrianHsu/.vim'
+let g:netrw_dirhist_3='/Users/AdrianHsu/Google Drive/NTUEE_103_2/DSA_HsuanTien_Lin/DSA_github'
+let g:netrw_dirhist_4='/Users/AdrianHsu/Google Drive/NTUEE_103_2/DSA_HsuanTien_Lin/DSA_github/HW#2'
